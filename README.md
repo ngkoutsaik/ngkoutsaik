@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Klinton 👋
 
-<!--
-**ngkoutsaik/ngkoutsaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior PHP developer (Laravel, Drupal) based in Ljubljana, Slovenia.
+Open to contract work - [klinton.dev](https://klinton.dev) · [email](mailto:klinton.ngkoutsai@gmail.com)
 
-Here are some ideas to get you started:
+## What I work with
+**Backend:** PHP, Laravel, Drupal, REST, SOAP
+**Frontend:** Javascript, Vue 3, TypeScript
+**Data:** PostgreSQL, MySQL
+**Ops:** Docker, GitHub Actions, GitLab CI, AWS, Sentry
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Highlights
+- Led three European Commission projects, migrating them from Drupal 8 to 10
+- Built Laravel modules for a property rental platform: payments, notifications, permissions
+- Turned a 70-page Excel report into an interactive public dashboard (EJTP)
+
+## Currently building
+[klinton-hq](https://github.com/ngkoutsaik/klinton-hq) - my business site in Laravel 13
+
+Spken languages: English, Greek, Slovenian
+
+![Profile views](https://komarev.com/ghpvc/?username=ngkoutsaik)
